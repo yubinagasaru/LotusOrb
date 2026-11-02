@@ -4,9 +4,9 @@
 
 | 種類 | ファイル |
 | --- | --- |
-| 3389通常版・左用 | [lotusorb_vial_left.uf2](lotusorb_vial_left.uf2) |
-| 3389通常版・右用 | [lotusorb_vial_right.uf2](lotusorb_vial_right.uf2) |
-| 3389・左スクロール量を減らした版・左用 | [lotusorb_vial_left_scroll_reduced.uf2](lotusorb_vial_left_scroll_reduced.uf2) |
+| 3389通常版・左用 | [lotusorb_pmw3389_vial_left.uf2](lotusorb_pmw3389_vial_left.uf2) |
+| 3389通常版・右用 | [lotusorb_pmw3389_vial_right.uf2](lotusorb_pmw3389_vial_right.uf2) |
+| 3389・左スクロール量を減らした版・左用 | [lotusorb_pmw3389_vial_left_scroll_reduced.uf2](lotusorb_pmw3389_vial_left_scroll_reduced.uf2) |
 
 3389へセンサーを交換する場合は左右とも3389用ファームウェアが必要です。
 
